@@ -1,0 +1,10 @@
+MainClasses\StartApp.class
+Controllers\Controller.class
+Controllers\EditObject_Controller.class
+MainClasses\Global.class
+Utils\Formulas.class
+Utils\Vector2.class
+MainClasses\Main.class
+Enums\Mode.class
+Utils\Space_object.class
+Utils\PhysicsCalculation.class
